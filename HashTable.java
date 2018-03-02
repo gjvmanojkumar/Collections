@@ -8,7 +8,7 @@ public class HashTable {
 		Hashtable<String, String> ht1 = new Hashtable();
 		ht1.put("course1", "Selenium");
 		ht1.put("course2", "Manual");
-		
+		//check
 		Hashtable<String, String> ht2 = new Hashtable<String, String>();
 		ht2.put("location1", "HYD");
 		ht2.put("location2", "GNT");
