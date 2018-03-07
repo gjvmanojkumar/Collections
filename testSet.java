@@ -12,7 +12,7 @@ public class testSet {
 		set.add(1);
 		set.add(2);
 		set.add(3);
-		
+		//MAMA
 		Iterator<Integer> itrate = set.iterator();
 		while(itrate.hasNext()) {
 			System.out.println(itrate.next());
